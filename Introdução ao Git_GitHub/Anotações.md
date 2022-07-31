@@ -32,7 +32,7 @@ Git Commit = Para iniciar o comando de comitar **obrigatório**
 
 Ele irá pedir a sua senha que foi cadastrada no Git.
 
-Pronto, arquivo está no seu repositório local -- GitHub.
+Pronto, arquivo está no seu repositório local -- GitHub. 😙
 
 
 
